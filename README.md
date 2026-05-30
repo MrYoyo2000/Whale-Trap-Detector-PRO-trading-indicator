@@ -1,1 +1,1 @@
-# -Whale-Trap-Detector-PRO-trading-indicator
+# Whale-Trap-Detector-PRO-trading-indicator
